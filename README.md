@@ -1,4 +1,4 @@
-# IIITL Classroom
+# Discussion Forum
 
 ## About Project
 A remote learning platform that will be designed to provide learners and educators a single place to have a smart and non generic learning experience. It will be a single, secure integrated system that will aim to make resource management easy.
