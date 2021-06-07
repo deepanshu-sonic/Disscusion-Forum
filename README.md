@@ -31,9 +31,6 @@ A remote learning platform that will be designed to provide learners and educato
       <img src="/assets/feed.jpg?raw=true" width="200" height="400">
     </td>
     <td>
-      <img src="/assets/assignment.jpg?raw=true" width="200" height="400">
-    </td>
-    <td>
       <img src="/assets/profile.jpg?raw=true" width="200" height="400">
     </td>
   </tr>
